@@ -1,12 +1,8 @@
 id,value
 flare,
 flare.analytics,
-flare.analytics.cluster,
-flare.analytics.cluster.AgglomerativeCluster,3938
 flare.analytics.graph,
 flare.analytics.graph.LinkDistance,5731
-flare.analytics.optimization,
-flare.analytics.optimization.AspectRatioBanker,7074
 flare.animate,
 flare.animate.Test,5010
 flare.animate.interpolate,
