@@ -5,14 +5,8 @@ flare.analytics.graph,
 flare.analytics.graph.LinkDistance,5731
 flare.animate,
 flare.animate.Test,5010
-flare.animate.interpolate,
-flare.animate.interpolate.ArrayInterpolator,1983
-flare.animate.ISchedulable,1041
 flare.data,
-flare.data.converters,
-flare.data.converters.Converters,721
 flare.data.DataField,1759
-flare.data.DataSchema,2165
 flare.display,
 flare.display.DirtySprite,8833
 flare.flex,
@@ -21,14 +15,9 @@ flare.physics,
 flare.physics.DragForce,1082
 flare.query,
 flare.query.AggregateExpression,1616
-flare.query.methods,
-flare.query.methods.add,593
 flare.scale,
 flare.scale.IScaleMap,2105
 flare.util,
 flare.util.Arrays,8258
 flare.vis,
-flare.vis.legend,
-flare.vis.legend.Legend,20859
-flare.nova,
-flare.nova.CatNova, 15000
+flare.vis.Legend,20859
